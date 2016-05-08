@@ -14,4 +14,4 @@ Reference
 require 'github/markup'
 GitHub::Markup.render('README.markdown', "* One\n* Two")
 ```
-  [SemVer](http://semver.org/)
+  [SCSIJS](https://github.com/scsijs)
